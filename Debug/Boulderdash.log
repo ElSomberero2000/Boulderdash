@@ -1,0 +1,27 @@
+﻿  Box.cpp
+e:\boulderdash\box.cpp(41): warning C4018: '<': signed/unsigned mismatch
+e:\boulderdash\box.cpp(114): warning C4018: '<': signed/unsigned mismatch
+e:\boulderdash\box.cpp(172): warning C4018: '<': signed/unsigned mismatch
+  Gem.cpp
+e:\boulderdash\gem.cpp(30): warning C4018: '<': signed/unsigned mismatch
+  Level.cpp
+e:\boulderdash\level.cpp(37): warning C4018: '<': signed/unsigned mismatch
+e:\boulderdash\level.cpp(39): warning C4018: '<': signed/unsigned mismatch
+e:\boulderdash\level.cpp(46): warning C4018: '<': signed/unsigned mismatch
+e:\boulderdash\level.cpp(49): warning C4018: '<': signed/unsigned mismatch
+e:\boulderdash\level.cpp(52): warning C4018: '<': signed/unsigned mismatch
+e:\boulderdash\level.cpp(76): warning C4018: '<': signed/unsigned mismatch
+e:\boulderdash\level.cpp(79): warning C4018: '<': signed/unsigned mismatch
+e:\boulderdash\level.cpp(82): warning C4018: '<': signed/unsigned mismatch
+e:\boulderdash\level.cpp(93): warning C4018: '<': signed/unsigned mismatch
+e:\boulderdash\level.cpp(96): warning C4018: '<': signed/unsigned mismatch
+e:\boulderdash\level.cpp(99): warning C4018: '<': signed/unsigned mismatch
+e:\boulderdash\level.cpp(114): warning C4018: '<': signed/unsigned mismatch
+e:\boulderdash\level.cpp(117): warning C4018: '<': signed/unsigned mismatch
+e:\boulderdash\level.cpp(120): warning C4018: '<': signed/unsigned mismatch
+e:\boulderdash\level.cpp(271): warning C4018: '<': signed/unsigned mismatch
+e:\boulderdash\level.cpp(311): warning C4018: '<': signed/unsigned mismatch
+  Player.cpp
+e:\boulderdash\player.cpp(108): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Boulderdash.vcxproj -> E:\Boulderdash\Debug\Boulderdash.exe
